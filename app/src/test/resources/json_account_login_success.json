@@ -1,0 +1,21 @@
+{
+  "state": 1,
+  "msg": "Ok",
+  "data": {
+    "id": 129,
+    "name": "",
+    "lastname": "",
+    "photo": null,
+    "email": "amadeusc2@gmail.com",
+    "code": "198512",
+    "apitoken": null,
+    "flagactive": "1"
+  }
+}
+
+/*
+"msg": {
+"msg":"Ok",
+"state":1
+}
+*/
